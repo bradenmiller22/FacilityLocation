@@ -1,0 +1,3320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<Style id="yellowLine">
+  <LineStyle>
+    <color>7f00ffff</color>
+    <width>2.5</width>
+  </LineStyle>
+</Style>
+
+<Style id="redLine">
+  <LineStyle>
+    <color>7f1400FA</color>
+    <width>2.5</width>
+  </LineStyle>
+</Style>
+
+<Style id="greenLine">
+  <LineStyle>
+    <color>7f14F01E</color>
+    <width>2.5</width>
+  </LineStyle>
+</Style>
+
+<Style id="blueLine">
+  <LineStyle>
+    <color>7fF0E614</color>
+    <width>2.5</width>
+  </LineStyle>
+</Style>
+
+<Style id="purpleLine">
+  <LineStyle>
+    <color>7f782878</color>
+    <width>2.5</width>
+  </LineStyle>
+</Style>
+
+<Placemark>
+ <name>Williamsport PA</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Williamsport PA</description>
+ <Point>
+  <coordinates>-77.0,41.25,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Waukegan IL</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Waukegan IL</description>
+ <Point>
+  <coordinates>-87.83,42.36,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Waco TX</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Waco TX</description>
+ <Point>
+  <coordinates>-97.14,31.55,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tallahassee FL</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Tallahassee FL</description>
+ <Point>
+  <coordinates>-84.28,30.45,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Stockton CA</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Stockton CA</description>
+ <Point>
+  <coordinates>-121.29,37.96,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sioux City IA</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Sioux City IA</description>
+ <Point>
+  <coordinates>-96.39,42.49,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Yakima WA</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Yakima WA</description>
+ <Point>
+  <coordinates>-120.51,46.6,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Winston-Salem NC</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Winston-Salem NC</description>
+ <Point>
+  <coordinates>-80.25,36.1,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sedalia MO</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Sedalia MO</description>
+ <Point>
+  <coordinates>-93.23,38.71,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saginaw MI</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Saginaw MI</description>
+ <Point>
+  <coordinates>-83.94,43.43,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Worcester MA</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Worcester MA</description>
+ <Point>
+  <coordinates>-71.8,42.27,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Trinidad CO</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Trinidad CO</description>
+ <Point>
+  <coordinates>-104.51,37.17,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Santa Barbara CA</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Santa Barbara CA</description>
+ <Point>
+  <coordinates>-119.7,34.42,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Salt Lake City UT</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Salt Lake City UT</description>
+ <Point>
+  <coordinates>-111.88,40.76,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Vicksburg MS</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Vicksburg MS</description>
+ <Point>
+  <coordinates>-90.88,32.35,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Winnipeg MB</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Winnipeg MB</description>
+ <Point>
+  <coordinates>-97.15,49.88,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Williston ND</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Williston ND</description>
+ <Point>
+  <coordinates>-103.62,48.15,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>West Palm Beach FL</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>West Palm Beach FL</description>
+ <Point>
+  <coordinates>-80.05,26.72,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tucson AZ</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Tucson AZ</description>
+ <Point>
+  <coordinates>-110.97,32.22,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sterling CO</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Sterling CO</description>
+ <Point>
+  <coordinates>-103.22,40.62,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sheridan WY</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Sheridan WY</description>
+ <Point>
+  <coordinates>-106.96,44.8,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Santa Fe NM</name>
+ <Style>
+    <IconStyle>
+        <color>ff0080ff</color>
+        <scale>1.2</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2006-shape_star_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ff0080ff</color>
+   </LabelStyle>
+ </Style> <description>Santa Fe NM</description>
+ <Point>
+  <coordinates>-105.95,35.68,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Youngstown OH</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Youngstown OH</description> <Point>
+  <coordinates>-80.65,41.1,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Yankton SD</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Yankton SD</description> <Point>
+  <coordinates>-97.39,42.88,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wisconsin Dells WI</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wisconsin Dells WI</description> <Point>
+  <coordinates>-89.77,43.63,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Winchester VA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Winchester VA</description> <Point>
+  <coordinates>-78.16,39.19,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wilmington NC</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wilmington NC</description> <Point>
+  <coordinates>-77.92,34.24,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wilmington DE</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wilmington DE</description> <Point>
+  <coordinates>-75.55,39.75,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Williamson WV</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Williamson WV</description> <Point>
+  <coordinates>-82.28,37.68,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wichita Falls TX</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wichita Falls TX</description> <Point>
+  <coordinates>-98.49,33.9,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wichita KS</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wichita KS</description> <Point>
+  <coordinates>-97.34,37.69,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wheeling WV</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wheeling WV</description> <Point>
+  <coordinates>-80.72,40.07,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wenatchee WA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wenatchee WA</description> <Point>
+  <coordinates>-120.32,47.42,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Weed CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Weed CA</description> <Point>
+  <coordinates>-122.39,41.42,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Waycross GA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Waycross GA</description> <Point>
+  <coordinates>-82.35,31.22,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Wausau WI</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Wausau WI</description> <Point>
+  <coordinates>-89.64,44.96,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Watertown SD</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Watertown SD</description> <Point>
+  <coordinates>-97.11,44.9,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Watertown NY</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Watertown NY</description> <Point>
+  <coordinates>-75.92,43.98,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Waterloo IA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Waterloo IA</description> <Point>
+  <coordinates>-92.34,42.5,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Waterbury CT</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Waterbury CT</description> <Point>
+  <coordinates>-73.05,41.55,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Washington DC</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Washington DC</description> <Point>
+  <coordinates>-77.03,38.89,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Warren PA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Warren PA</description> <Point>
+  <coordinates>-79.14,41.85,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Walla Walla WA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Walla Walla WA</description> <Point>
+  <coordinates>-118.33,46.07,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Vincennes IN</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Vincennes IN</description> <Point>
+  <coordinates>-87.53,38.68,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Victoria TX</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Victoria TX</description> <Point>
+  <coordinates>-97.01,28.81,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Vancouver BC</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Vancouver BC</description> <Point>
+  <coordinates>-123.12,49.27,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Valley City ND</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Valley City ND</description> <Point>
+  <coordinates>-98.01,46.92,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Valdosta GA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Valdosta GA</description> <Point>
+  <coordinates>-83.28,30.83,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Utica NY</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Utica NY</description> <Point>
+  <coordinates>-75.23,43.11,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Uniontown PA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Uniontown PA</description> <Point>
+  <coordinates>-79.73,39.9,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tyler TX</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Tyler TX</description> <Point>
+  <coordinates>-95.3,32.35,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Twin Falls ID</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Twin Falls ID</description> <Point>
+  <coordinates>-114.47,42.56,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tuscaloosa AL</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Tuscaloosa AL</description> <Point>
+  <coordinates>-87.57,33.21,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tupelo MS</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Tupelo MS</description> <Point>
+  <coordinates>-88.71,34.26,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tulsa OK</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Tulsa OK</description> <Point>
+  <coordinates>-95.91,36.16,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Trenton NJ</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Trenton NJ</description> <Point>
+  <coordinates>-74.77,40.23,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Traverse City MI</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Traverse City MI</description> <Point>
+  <coordinates>-85.63,44.76,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Toronto ON</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Toronto ON</description> <Point>
+  <coordinates>-79.38,43.65,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Topeka KS</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Topeka KS</description> <Point>
+  <coordinates>-95.67,39.05,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Toledo OH</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Toledo OH</description> <Point>
+  <coordinates>-83.54,41.65,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Texarkana TX</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Texarkana TX</description> <Point>
+  <coordinates>-94.05,33.43,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Terre Haute IN</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Terre Haute IN</description> <Point>
+  <coordinates>-87.41,39.47,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tampa FL</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Tampa FL</description> <Point>
+  <coordinates>-82.45,27.95,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Tacoma WA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Tacoma WA</description> <Point>
+  <coordinates>-122.43,47.24,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Syracuse NY</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Syracuse NY</description> <Point>
+  <coordinates>-76.15,43.05,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Swainsboro GA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Swainsboro GA</description> <Point>
+  <coordinates>-82.34,32.6,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sumter SC</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Sumter SC</description> <Point>
+  <coordinates>-80.35,33.92,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Stroudsburg PA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Stroudsburg PA</description> <Point>
+  <coordinates>-75.19,40.99,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Stevens Point WI</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Stevens Point WI</description> <Point>
+  <coordinates>-89.57,44.52,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Steubenville OH</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Steubenville OH</description> <Point>
+  <coordinates>-80.62,40.36,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Staunton VA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Staunton VA</description> <Point>
+  <coordinates>-79.07,38.15,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Springfield OH</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Springfield OH</description> <Point>
+  <coordinates>-83.81,39.92,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Springfield MO</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Springfield MO</description> <Point>
+  <coordinates>-93.29,37.22,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Springfield MA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Springfield MA</description> <Point>
+  <coordinates>-72.59,42.1,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Springfield IL</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Springfield IL</description> <Point>
+  <coordinates>-89.65,39.8,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Spokane WA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Spokane WA</description> <Point>
+  <coordinates>-117.41,47.67,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>South Bend IN</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>South Bend IN</description> <Point>
+  <coordinates>-86.25,41.68,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sioux Falls SD</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Sioux Falls SD</description> <Point>
+  <coordinates>-96.73,43.54,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Shreveport LA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Shreveport LA</description> <Point>
+  <coordinates>-93.75,32.51,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sherman TX</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Sherman TX</description> <Point>
+  <coordinates>-96.61,33.64,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Seminole OK</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Seminole OK</description> <Point>
+  <coordinates>-96.68,35.23,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Selma AL</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Selma AL</description> <Point>
+  <coordinates>-87.02,32.42,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Seattle WA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Seattle WA</description> <Point>
+  <coordinates>-122.33,47.6,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Scranton PA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Scranton PA</description> <Point>
+  <coordinates>-75.67,41.41,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Scottsbluff NE</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Scottsbluff NE</description> <Point>
+  <coordinates>-103.66,41.87,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Schenectady NY</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Schenectady NY</description> <Point>
+  <coordinates>-73.95,42.82,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Savannah GA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Savannah GA</description> <Point>
+  <coordinates>-81.09,32.08,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sault Sainte Marie MI</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Sault Sainte Marie MI</description> <Point>
+  <coordinates>-84.35,46.49,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sarasota FL</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Sarasota FL</description> <Point>
+  <coordinates>-82.53,27.34,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Santa Rosa CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Santa Rosa CA</description> <Point>
+  <coordinates>-122.72,38.44,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Santa Ana CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Santa Ana CA</description> <Point>
+  <coordinates>-117.87,33.76,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>San Jose CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>San Jose CA</description> <Point>
+  <coordinates>-121.88,37.34,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>San Francisco CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>San Francisco CA</description> <Point>
+  <coordinates>-122.42,37.78,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sandusky OH</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Sandusky OH</description> <Point>
+  <coordinates>-82.71,41.45,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>San Diego CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>San Diego CA</description> <Point>
+  <coordinates>-117.15,32.71,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>San Bernardino CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>San Bernardino CA</description> <Point>
+  <coordinates>-117.31,34.11,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>San Antonio TX</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>San Antonio TX</description> <Point>
+  <coordinates>-98.5,29.42,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>San Angelo TX</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>San Angelo TX</description> <Point>
+  <coordinates>-100.44,31.46,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Salisbury MD</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Salisbury MD</description> <Point>
+  <coordinates>-75.6,38.37,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Salinas CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Salinas CA</description> <Point>
+  <coordinates>-121.65,36.67,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Salina KS</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Salina KS</description> <Point>
+  <coordinates>-97.61,38.84,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Salida CO</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Salida CO</description> <Point>
+  <coordinates>-106.0,38.53,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Salem OR</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Salem OR</description> <Point>
+  <coordinates>-123.03,44.94,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saint Paul MN</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Saint Paul MN</description> <Point>
+  <coordinates>-93.1,44.95,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saint Louis MO</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Saint Louis MO</description> <Point>
+  <coordinates>-90.19,38.62,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saint Joseph MO</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Saint Joseph MO</description> <Point>
+  <coordinates>-94.84,39.77,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saint Joseph MI</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Saint Joseph MI</description> <Point>
+  <coordinates>-86.48,42.1,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saint Johnsbury VT</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Saint Johnsbury VT</description> <Point>
+  <coordinates>-72.02,44.42,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saint Cloud MN</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Saint Cloud MN</description> <Point>
+  <coordinates>-94.17,45.57,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Saint Augustine FL</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Saint Augustine FL</description> <Point>
+  <coordinates>-81.32,29.89,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Sacramento CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Sacramento CA</description> <Point>
+  <coordinates>-121.49,38.59,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Rutland VT</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Rutland VT</description> <Point>
+  <coordinates>-72.97,43.61,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Roswell NM</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Roswell NM</description> <Point>
+  <coordinates>-104.53,33.4,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Rocky Mount NC</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Rocky Mount NC</description> <Point>
+  <coordinates>-77.8,35.94,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Rock Springs WY</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Rock Springs WY</description> <Point>
+  <coordinates>-109.23,41.59,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Rockford IL</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Rockford IL</description> <Point>
+  <coordinates>-89.1,42.27,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Rochester NY</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Rochester NY</description> <Point>
+  <coordinates>-77.61,43.16,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Rochester MN</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Rochester MN</description> <Point>
+  <coordinates>-92.46,44.02,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Roanoke VA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Roanoke VA</description> <Point>
+  <coordinates>-79.94,37.27,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Richmond VA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Richmond VA</description> <Point>
+  <coordinates>-77.45,37.54,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Richmond IN</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Richmond IN</description> <Point>
+  <coordinates>-84.89,39.83,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Richfield UT</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Richfield UT</description> <Point>
+  <coordinates>-112.09,38.77,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Rhinelander WI</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Rhinelander WI</description> <Point>
+  <coordinates>-89.42,45.64,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Reno NV</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Reno NV</description> <Point>
+  <coordinates>-119.81,39.52,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Regina SK</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Regina SK</description> <Point>
+  <coordinates>-104.65,50.42,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Red Bluff CA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Red Bluff CA</description> <Point>
+  <coordinates>-122.24,40.18,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Reading PA</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Reading PA</description> <Point>
+  <coordinates>-75.93,40.33,0</coordinates>
+ </Point>
+</Placemark>
+
+<Placemark>
+ <name>Ravenna OH</name>
+ <Style>
+    <IconStyle>
+        <color>ffff8888</color>
+        <scale>0.8</scale>
+        <Icon>
+           <href>https://www.gstatic.com/earth/images/stockicons/190201-2000-shape_default_4x.png</href>
+        </Icon>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffB45A14</color>
+   </LabelStyle>
+ </Style> <description>Ravenna OH</description> <Point>
+  <coordinates>-81.24,41.16,0</coordinates>
+ </Point>
+</Placemark><Placemark>
+   <name>Youngstown OH to Williamsport PA</name>
+   <description>A yellow line from Youngstown OH to Williamsport PA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-80.65,41.1,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Yankton SD to Sioux City IA</name>
+   <description>A blue line from Yankton SD to Sioux City IA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-97.39,42.88,0,-96.39,42.49,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wisconsin Dells WI to Waukegan IL</name>
+   <description>A blue line from Wisconsin Dells WI to Waukegan IL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-89.77,43.63,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Winchester VA to Williamsport PA</name>
+   <description>A yellow line from Winchester VA to Williamsport PA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-78.16,39.19,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wilmington NC to Winston-Salem NC</name>
+   <description>A yellow line from Wilmington NC to Winston-Salem NC</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-77.92,34.24,0,-80.25,36.1,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wilmington DE to Williamsport PA</name>
+   <description>A green line from Wilmington DE to Williamsport PA</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-75.55,39.75,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Williamson WV to Winston-Salem NC</name>
+   <description>A purple line from Williamson WV to Winston-Salem NC</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-82.28,37.68,0,-80.25,36.1,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wichita Falls TX to Waco TX</name>
+   <description>A purple line from Wichita Falls TX to Waco TX</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-98.49,33.9,0,-97.14,31.55,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wichita KS to Sedalia MO</name>
+   <description>A purple line from Wichita KS to Sedalia MO</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-97.34,37.69,0,-93.23,38.71,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wheeling WV to Williamsport PA</name>
+   <description>A green line from Wheeling WV to Williamsport PA</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-80.72,40.07,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wenatchee WA to Yakima WA</name>
+   <description>A purple line from Wenatchee WA to Yakima WA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-120.32,47.42,0,-120.51,46.6,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Weed CA to Stockton CA</name>
+   <description>A green line from Weed CA to Stockton CA</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-122.39,41.42,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Waycross GA to Tallahassee FL</name>
+   <description>A blue line from Waycross GA to Tallahassee FL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-82.35,31.22,0,-84.28,30.45,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Wausau WI to Waukegan IL</name>
+   <description>A red line from Wausau WI to Waukegan IL</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-89.64,44.96,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Watertown SD to Sioux City IA</name>
+   <description>A purple line from Watertown SD to Sioux City IA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-97.11,44.9,0,-96.39,42.49,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Watertown NY to Williamsport PA</name>
+   <description>A purple line from Watertown NY to Williamsport PA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-75.92,43.98,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Waterloo IA to Sioux City IA</name>
+   <description>A blue line from Waterloo IA to Sioux City IA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-92.34,42.5,0,-96.39,42.49,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Waterbury CT to Worcester MA</name>
+   <description>A blue line from Waterbury CT to Worcester MA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-73.05,41.55,0,-71.8,42.27,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Washington DC to Williamsport PA</name>
+   <description>A blue line from Washington DC to Williamsport PA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-77.03,38.89,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Warren PA to Williamsport PA</name>
+   <description>A red line from Warren PA to Williamsport PA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-79.14,41.85,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Walla Walla WA to Yakima WA</name>
+   <description>A yellow line from Walla Walla WA to Yakima WA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-118.33,46.07,0,-120.51,46.6,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Vincennes IN to Waukegan IL</name>
+   <description>A green line from Vincennes IN to Waukegan IL</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-87.53,38.68,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Victoria TX to Waco TX</name>
+   <description>A purple line from Victoria TX to Waco TX</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-97.01,28.81,0,-97.14,31.55,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Vancouver BC to Yakima WA</name>
+   <description>A yellow line from Vancouver BC to Yakima WA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-123.12,49.27,0,-120.51,46.6,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Valley City ND to Winnipeg MB</name>
+   <description>A red line from Valley City ND to Winnipeg MB</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-98.01,46.92,0,-97.15,49.88,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Valdosta GA to Tallahassee FL</name>
+   <description>A blue line from Valdosta GA to Tallahassee FL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-83.28,30.83,0,-84.28,30.45,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Utica NY to Williamsport PA</name>
+   <description>A purple line from Utica NY to Williamsport PA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-75.23,43.11,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Uniontown PA to Williamsport PA</name>
+   <description>A blue line from Uniontown PA to Williamsport PA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-79.73,39.9,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Tyler TX to Waco TX</name>
+   <description>A purple line from Tyler TX to Waco TX</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-95.3,32.35,0,-97.14,31.55,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Twin Falls ID to Salt Lake City UT</name>
+   <description>A yellow line from Twin Falls ID to Salt Lake City UT</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-114.47,42.56,0,-111.88,40.76,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Tuscaloosa AL to Vicksburg MS</name>
+   <description>A red line from Tuscaloosa AL to Vicksburg MS</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-87.57,33.21,0,-90.88,32.35,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Tupelo MS to Vicksburg MS</name>
+   <description>A blue line from Tupelo MS to Vicksburg MS</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-88.71,34.26,0,-90.88,32.35,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Tulsa OK to Sedalia MO</name>
+   <description>A yellow line from Tulsa OK to Sedalia MO</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-95.91,36.16,0,-93.23,38.71,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Trenton NJ to Williamsport PA</name>
+   <description>A purple line from Trenton NJ to Williamsport PA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-74.77,40.23,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Traverse City MI to Saginaw MI</name>
+   <description>A red line from Traverse City MI to Saginaw MI</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-85.63,44.76,0,-83.94,43.43,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Toronto ON to Saginaw MI</name>
+   <description>A yellow line from Toronto ON to Saginaw MI</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-79.38,43.65,0,-83.94,43.43,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Topeka KS to Sedalia MO</name>
+   <description>A red line from Topeka KS to Sedalia MO</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-95.67,39.05,0,-93.23,38.71,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Toledo OH to Saginaw MI</name>
+   <description>A yellow line from Toledo OH to Saginaw MI</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-83.54,41.65,0,-83.94,43.43,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Texarkana TX to Vicksburg MS</name>
+   <description>A yellow line from Texarkana TX to Vicksburg MS</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-94.05,33.43,0,-90.88,32.35,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Terre Haute IN to Waukegan IL</name>
+   <description>A blue line from Terre Haute IN to Waukegan IL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-87.41,39.47,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Tampa FL to West Palm Beach FL</name>
+   <description>A green line from Tampa FL to West Palm Beach FL</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-82.45,27.95,0,-80.05,26.72,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Tacoma WA to Yakima WA</name>
+   <description>A blue line from Tacoma WA to Yakima WA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-122.43,47.24,0,-120.51,46.6,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Syracuse NY to Williamsport PA</name>
+   <description>A blue line from Syracuse NY to Williamsport PA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-76.15,43.05,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Swainsboro GA to Tallahassee FL</name>
+   <description>A blue line from Swainsboro GA to Tallahassee FL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-82.34,32.6,0,-84.28,30.45,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Sumter SC to Winston-Salem NC</name>
+   <description>A red line from Sumter SC to Winston-Salem NC</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-80.35,33.92,0,-80.25,36.1,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Stroudsburg PA to Williamsport PA</name>
+   <description>A blue line from Stroudsburg PA to Williamsport PA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-75.19,40.99,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Stevens Point WI to Waukegan IL</name>
+   <description>A red line from Stevens Point WI to Waukegan IL</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-89.57,44.52,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Steubenville OH to Williamsport PA</name>
+   <description>A green line from Steubenville OH to Williamsport PA</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-80.62,40.36,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Staunton VA to Winston-Salem NC</name>
+   <description>A blue line from Staunton VA to Winston-Salem NC</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-79.07,38.15,0,-80.25,36.1,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Springfield OH to Saginaw MI</name>
+   <description>A yellow line from Springfield OH to Saginaw MI</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-83.81,39.92,0,-83.94,43.43,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Springfield MO to Sedalia MO</name>
+   <description>A purple line from Springfield MO to Sedalia MO</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-93.29,37.22,0,-93.23,38.71,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Springfield MA to Worcester MA</name>
+   <description>A purple line from Springfield MA to Worcester MA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-72.59,42.1,0,-71.8,42.27,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Springfield IL to Waukegan IL</name>
+   <description>A purple line from Springfield IL to Waukegan IL</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-89.65,39.8,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Spokane WA to Yakima WA</name>
+   <description>A yellow line from Spokane WA to Yakima WA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-117.41,47.67,0,-120.51,46.6,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>South Bend IN to Waukegan IL</name>
+   <description>A red line from South Bend IN to Waukegan IL</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-86.25,41.68,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Sioux Falls SD to Sioux City IA</name>
+   <description>A yellow line from Sioux Falls SD to Sioux City IA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-96.73,43.54,0,-96.39,42.49,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Shreveport LA to Vicksburg MS</name>
+   <description>A purple line from Shreveport LA to Vicksburg MS</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-93.75,32.51,0,-90.88,32.35,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Sherman TX to Waco TX</name>
+   <description>A yellow line from Sherman TX to Waco TX</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-96.61,33.64,0,-97.14,31.55,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Seminole OK to Waco TX</name>
+   <description>A purple line from Seminole OK to Waco TX</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-96.68,35.23,0,-97.14,31.55,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Selma AL to Vicksburg MS</name>
+   <description>A blue line from Selma AL to Vicksburg MS</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-87.02,32.42,0,-90.88,32.35,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Seattle WA to Yakima WA</name>
+   <description>A yellow line from Seattle WA to Yakima WA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-122.33,47.6,0,-120.51,46.6,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Scranton PA to Williamsport PA</name>
+   <description>A blue line from Scranton PA to Williamsport PA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-75.67,41.41,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Scottsbluff NE to Sterling CO</name>
+   <description>A blue line from Scottsbluff NE to Sterling CO</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-103.66,41.87,0,-103.22,40.62,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Schenectady NY to Worcester MA</name>
+   <description>A purple line from Schenectady NY to Worcester MA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-73.95,42.82,0,-71.8,42.27,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Savannah GA to Tallahassee FL</name>
+   <description>A blue line from Savannah GA to Tallahassee FL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-81.09,32.08,0,-84.28,30.45,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Sault Sainte Marie MI to Saginaw MI</name>
+   <description>A blue line from Sault Sainte Marie MI to Saginaw MI</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-84.35,46.49,0,-83.94,43.43,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Sarasota FL to West Palm Beach FL</name>
+   <description>A green line from Sarasota FL to West Palm Beach FL</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-82.53,27.34,0,-80.05,26.72,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Santa Rosa CA to Stockton CA</name>
+   <description>A red line from Santa Rosa CA to Stockton CA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-122.72,38.44,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Santa Ana CA to Santa Barbara CA</name>
+   <description>A red line from Santa Ana CA to Santa Barbara CA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-117.87,33.76,0,-119.7,34.42,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>San Jose CA to Stockton CA</name>
+   <description>A red line from San Jose CA to Stockton CA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-121.88,37.34,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>San Francisco CA to Stockton CA</name>
+   <description>A blue line from San Francisco CA to Stockton CA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-122.42,37.78,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Sandusky OH to Saginaw MI</name>
+   <description>A purple line from Sandusky OH to Saginaw MI</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-82.71,41.45,0,-83.94,43.43,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>San Diego CA to Santa Barbara CA</name>
+   <description>A red line from San Diego CA to Santa Barbara CA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-117.15,32.71,0,-119.7,34.42,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>San Bernardino CA to Santa Barbara CA</name>
+   <description>A blue line from San Bernardino CA to Santa Barbara CA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-117.31,34.11,0,-119.7,34.42,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>San Antonio TX to Waco TX</name>
+   <description>A green line from San Antonio TX to Waco TX</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-98.5,29.42,0,-97.14,31.55,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>San Angelo TX to Waco TX</name>
+   <description>A yellow line from San Angelo TX to Waco TX</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-100.44,31.46,0,-97.14,31.55,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Salisbury MD to Williamsport PA</name>
+   <description>A blue line from Salisbury MD to Williamsport PA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-75.6,38.37,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Salinas CA to Stockton CA</name>
+   <description>A red line from Salinas CA to Stockton CA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-121.65,36.67,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Salina KS to Sedalia MO</name>
+   <description>A red line from Salina KS to Sedalia MO</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-97.61,38.84,0,-93.23,38.71,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Salida CO to Trinidad CO</name>
+   <description>A yellow line from Salida CO to Trinidad CO</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-106.0,38.53,0,-104.51,37.17,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Salem OR to Yakima WA</name>
+   <description>A purple line from Salem OR to Yakima WA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-123.03,44.94,0,-120.51,46.6,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Saint Paul MN to Sioux City IA</name>
+   <description>A green line from Saint Paul MN to Sioux City IA</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-93.1,44.95,0,-96.39,42.49,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Saint Louis MO to Sedalia MO</name>
+   <description>A purple line from Saint Louis MO to Sedalia MO</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-90.19,38.62,0,-93.23,38.71,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Saint Joseph MO to Sedalia MO</name>
+   <description>A green line from Saint Joseph MO to Sedalia MO</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-94.84,39.77,0,-93.23,38.71,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Saint Joseph MI to Waukegan IL</name>
+   <description>A purple line from Saint Joseph MI to Waukegan IL</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-86.48,42.1,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Saint Johnsbury VT to Worcester MA</name>
+   <description>A yellow line from Saint Johnsbury VT to Worcester MA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-72.02,44.42,0,-71.8,42.27,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Saint Cloud MN to Sioux City IA</name>
+   <description>A purple line from Saint Cloud MN to Sioux City IA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-94.17,45.57,0,-96.39,42.49,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Saint Augustine FL to Tallahassee FL</name>
+   <description>A blue line from Saint Augustine FL to Tallahassee FL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-81.32,29.89,0,-84.28,30.45,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Sacramento CA to Stockton CA</name>
+   <description>A blue line from Sacramento CA to Stockton CA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-121.49,38.59,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Rutland VT to Worcester MA</name>
+   <description>A green line from Rutland VT to Worcester MA</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-72.97,43.61,0,-71.8,42.27,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Roswell NM to Santa Fe NM</name>
+   <description>A green line from Roswell NM to Santa Fe NM</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-104.53,33.4,0,-105.95,35.68,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Rocky Mount NC to Winston-Salem NC</name>
+   <description>A blue line from Rocky Mount NC to Winston-Salem NC</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-77.8,35.94,0,-80.25,36.1,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Rock Springs WY to Salt Lake City UT</name>
+   <description>A yellow line from Rock Springs WY to Salt Lake City UT</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-109.23,41.59,0,-111.88,40.76,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Rockford IL to Waukegan IL</name>
+   <description>A green line from Rockford IL to Waukegan IL</description>
+   <styleUrl>#greenLine</styleUrl>
+   <LineString>
+     <coordinates>-89.1,42.27,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Rochester NY to Williamsport PA</name>
+   <description>A red line from Rochester NY to Williamsport PA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-77.61,43.16,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Rochester MN to Sioux City IA</name>
+   <description>A purple line from Rochester MN to Sioux City IA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-92.46,44.02,0,-96.39,42.49,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Roanoke VA to Winston-Salem NC</name>
+   <description>A red line from Roanoke VA to Winston-Salem NC</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-79.94,37.27,0,-80.25,36.1,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Richmond VA to Winston-Salem NC</name>
+   <description>A red line from Richmond VA to Winston-Salem NC</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-77.45,37.54,0,-80.25,36.1,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Richmond IN to Waukegan IL</name>
+   <description>A blue line from Richmond IN to Waukegan IL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-84.89,39.83,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Richfield UT to Salt Lake City UT</name>
+   <description>A blue line from Richfield UT to Salt Lake City UT</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-112.09,38.77,0,-111.88,40.76,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Rhinelander WI to Waukegan IL</name>
+   <description>A blue line from Rhinelander WI to Waukegan IL</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-89.42,45.64,0,-87.83,42.36,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Reno NV to Stockton CA</name>
+   <description>A red line from Reno NV to Stockton CA</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-119.81,39.52,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Regina SK to Williston ND</name>
+   <description>A red line from Regina SK to Williston ND</description>
+   <styleUrl>#redLine</styleUrl>
+   <LineString>
+     <coordinates>-104.65,50.42,0,-103.62,48.15,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Red Bluff CA to Stockton CA</name>
+   <description>A purple line from Red Bluff CA to Stockton CA</description>
+   <styleUrl>#purpleLine</styleUrl>
+   <LineString>
+     <coordinates>-122.24,40.18,0,-121.29,37.96,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Reading PA to Williamsport PA</name>
+   <description>A blue line from Reading PA to Williamsport PA</description>
+   <styleUrl>#blueLine</styleUrl>
+   <LineString>
+     <coordinates>-75.93,40.33,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+<Placemark>
+   <name>Ravenna OH to Williamsport PA</name>
+   <description>A yellow line from Ravenna OH to Williamsport PA</description>
+   <styleUrl>#yellowLine</styleUrl>
+   <LineString>
+     <coordinates>-81.24,41.16,0,-77.0,41.25,0</coordinates>
+   </LineString>
+</Placemark>
+
+
+</Document>
+</kml>
